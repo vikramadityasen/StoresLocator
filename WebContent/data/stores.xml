@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>X</name>
+  <description><![CDATA[X Stores locations in United State (plain text version)]]></description>
+  
+  <Placemark>
+    <name>X Store - Holtsville</name>
+    <Snippet>X Store - Holtsville, New_York ZipCode - 00544</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Holtsville, New_York<br>US New York ZipCode - 00544<br></div>]]></description>
+    <Point>
+      <coordinates>-73.04,40.81,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Adjuntas</name>
+    <Snippet>X Store - Adjuntas, Puerto_Rico ZipCode - 00601</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Adjuntas Puerto_Rico<br>US Puerto_Rico ZipCode - 00601<br></div>]]></description>
+    <Point>
+      <coordinates>-66.72,18.16,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Aguada</name>
+    <Snippet>X Store - Aguada, Puerto_Rico ZipCode - 00602</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Aguada Puerto_Rico<br>US Puerto_Rico ZipCode - 00602<br></div>]]></description>
+    <Point>
+      <coordinates>-67.18,18.38,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Aguadilla</name>
+    <Snippet>X Store - Aguadilla, Puerto_Rico ZipCode - 00603</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Aguadilla Puerto_Rico<br>US Puerto_Rico ZipCode - 00603<br></div>]]></description>
+    <Point>
+      <coordinates>-67.15,18.43,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Maricao</name>
+    <Snippet>X Store - Maricao, Puerto_Rico ZipCode - 00606</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Maricao Puerto_Rico<br>US Puerto_Rico ZipCode - 00606<br></div>]]></description>
+    <Point>
+      <coordinates>-66.98,18.18,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Anasco</name>
+    <Snippet>X Store - Anasco, Puerto_Rico ZipCode - 00610</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Anasco Puerto_Rico<br>US Puerto_Rico ZipCode - 00610<br></div>]]></description>
+    <Point>
+      <coordinates>-67.1017,18.2841,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Arecibo</name>
+    <Snippet>X Store - Arecibo, Puerto_Rico ZipCode - 00612</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Arecibo Puerto_Rico<br>US Puerto_Rico ZipCode - 00612<br></div>]]></description>
+    <Point>
+      <coordinates>-66.732,18.3963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Barceloneta</name>
+    <Snippet>X Store - Barceloneta, Puerto_Rico ZipCode - 00617</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Barceloneta Puerto_Rico<br>US Puerto_Rico ZipCode - 00617<br></div>]]></description>
+    <Point>
+      <coordinates>-66.5632,18.4375,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Cabo Rojo</name>
+    <Snippet>X Store - Cabo Rojo, Puerto_Rico ZipCode - 00623</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Cabo Rojo Puerto_Rico<br>US Puerto_Rico ZipCode - 00623<br></div>]]></description>
+    <Point>
+      <coordinates>-67.1457,18.0673,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Castaner</name>
+    <Snippet>X Store - Castaner, Puerto_Rico ZipCode - 00631</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Castaner Puerto_Rico<br>US Puerto_Rico ZipCode - 00631<br></div>]]></description>
+    <Point>
+      <coordinates>-66.8354,18.1798,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Portsmouth</name>
+    <Snippet>X Store - Portsmouth, New Hampshire ZipCode - 210</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Portsmouth, New Hampshire<br>US Rockingham ZipCode - 210<br></div>]]></description>
+    <Point>
+      <coordinates>-71.0132,43.0059,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Portsmouth</name>
+    <Snippet>X Store - Portsmouth, New Hampshire ZipCode - 214</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Portsmouth, New Hampshire<br>US Rockingham ZipCode - 214<br></div>]]></description>
+    <Point>
+      <coordinates>-71.0132,43.0059,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Pleasantville</name>
+    <Snippet>X Store - Pleasantville, New York ZipCode - 401</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Pleasantville, New York<br>US New York ZipCode - 401<br></div>]]></description>
+    <Point>
+      <coordinates>-73.7847,41.1381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Agawam</name>
+    <Snippet>X Store - Agawam, Massachusetts ZipCode - 1001</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Agawam, Massachusetts<br>US Hampden ZipCode - 1001<br></div>]]></description>
+    <Point>
+      <coordinates>-72.6227,42.0702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Belchertown</name>
+    <Snippet>X Store - Belchertown, Massachusetts ZipCode - 1007</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Belchertown, Massachusetts<br>US Hampshire ZipCode - 1007<br></div>]]></description>
+    <Point>
+      <coordinates>-72.411,42.2751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Rosario</name>
+    <Snippet>X Store - Rosario, Puerto_Rico ZipCode - 00636</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Rosario Puerto_Rico<br>US Puerto_Rico ZipCode - 00636<br></div>]]></description>
+    <Point>
+      <coordinates>-67.06,18.15,0.000000</coordinates>
+    </Point>
+  </Placemark>
+   
+  <Placemark>
+    <name>X Store - South Wellfleet</name>
+    <Snippet>X Store - South Wellfleet, Massachusetts ZipCode - 02663</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - South Wellfleet Massachusetts<br>US Barnstable ZipCode - 02663<br></div>]]></description>
+    <Point>
+      <coordinates>-70.0768,41.8005,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Assonet</name>
+    <Snippet>X Store - Assonet, Massachusetts ZipCode - 02702</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Assonet Massachusetts<br>US Bristol ZipCode - 02702<br></div>]]></description>
+    <Point>
+      <coordinates>-70.227,41.7051,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Cuttyhunk</name>
+    <Snippet>X Store - Cuttyhunk, Massachusetts ZipCode - 02713</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Cuttyhunk Massachusetts<br>US Dukes ZipCode - 02713<br></div>]]></description>
+    <Point>
+      <coordinates>-70.9313,41.4218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - East Freetown</name>
+    <Snippet>X Store - East Freetown, Massachusetts ZipCode - 02717</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - East Freetown Massachusetts<br>US Bristol ZipCode - 02717<br></div>]]></description>
+    <Point>
+      <coordinates>-70.9677,41.7635,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Marion</name>
+    <Snippet>X Store - Marion, Massachusetts ZipCode - 02738</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Marion Massachusetts<br>US Playmouth ZipCode - 02738<br></div>]]></description>
+    <Point>
+      <coordinates>-70.7613,41.7095,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - New Bedford</name>
+    <Snippet>X Store - New Bedford, Massachusetts ZipCode - 02742</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - New Bedford Massachusetts<br>US Bristol ZipCode - 02742<br></div>]]></description>
+    <Point>
+      <coordinates>-70.9563,41.6196,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Ashaway</name>
+    <Snippet>X Store - Ashaway, Rhode Island ZipCode - 02804</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Ashaway Rhode Island<br>US Washington ZipCode - 02804<br></div>]]></description>
+    <Point>
+      <coordinates>-71.7837,41.4231,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Bradford</name>
+    <Snippet>X Store - Bradford, Rhode Island ZipCode - 02808</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Bradford Rhode Island<br>US Washington ZipCode - 02808<br></div>]]></description>
+    <Point>
+      <coordinates>-71.7465,41.4114,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Carolina</name>
+    <Snippet>X Store - Carolina, Rhode Island ZipCode - 02812</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Carolina Rhode Island<br>US Washington ZipCode - 02812<br></div>]]></description>
+    <Point>
+      <coordinates>-71.6751,41.4691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - West Greenwich</name>
+    <Snippet>X Store - West Greenwich, Rhode Island ZipCode - 02817</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - West Greenwich Rhode Island<br>US Kent ZipCode - 02817<br></div>]]></description>
+    <Point>
+      <coordinates>-71.6435,41.64,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Greene</name>
+    <Snippet>X Store - Greene, Rhode Island ZipCode - 02827</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Greene Rhode Island<br>US Kent ZipCode - 02827<br></div>]]></description>
+    <Point>
+      <coordinates>-71.7356,41.7062,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Jamestown</name>
+    <Snippet>X Store - Jamestown, Rhode Island ZipCode - 02835</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Jamestown Rhode Island<br>US Newport ZipCode - 02835<br></div>]]></description>
+    <Point>
+      <coordinates>-71.3761,41.5164,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Amherst</name>
+    <Snippet>X Store - Amherst, New Hampshire ZipCode - 03031</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Amherst New Hampshire<br>US Hillsborough ZipCode - 03031<br></div>]]></description>
+    <Point>
+      <coordinates>-71.6075,42.8569,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>X Store - Auburn</name>
+    <Snippet>X Store - Auburn, New Hampshire ZipCode - 03032</Snippet>
+    <description><![CDATA[<div dir="ltr">X Store - Auburn New Hampshire<br>US Rockingham ZipCode - 03032<br></div>]]></description>
+    <Point>
+      <coordinates>-71.3449,42.9925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>
